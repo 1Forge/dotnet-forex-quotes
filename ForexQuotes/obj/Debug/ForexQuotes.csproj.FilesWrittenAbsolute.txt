@@ -1,0 +1,6 @@
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/obj/Debug/.NETFramework,Version=v4.6.2.AssemblyAttribute.cs
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/bin/Debug/ForexQuotes.pdb
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/bin/Debug/ForexQuotes.dll
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/obj/Debug/ForexQuotes.dll
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/obj/Debug/ForexQuotes.pdb
+/Users/jacobdavis/Desktop/ForexQuotes/ForexQuotes/bin/Debug/Newtonsoft.Json.dll
