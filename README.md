@@ -74,8 +74,6 @@ var quota = client.GetQuota();
 Console.WriteLine(quota);
 ```
 
-```
-
 ## Support and Contact
 Please contact me at contact@1forge.com if you have any questions or requests.
 
